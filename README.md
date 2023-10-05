@@ -6,35 +6,6 @@
 </head>
 
 <body>
-  <br><a href="afllive://?type=arHub">afllive://?type=arHub</a>
-  <br><a
-    href="afllive://?type=url&url=http://www.afl.com.au/draft">afllive://?type=url&url=http://www.afl.com.au/draft</a>
-  <br><a href="afllive://?type=fixtures">afllive://?type=fixtures</a>
-  <br><a href="afllive://?type=home">afllive://?type=home</a>
-  <br><a href="afllive://?type=ladder">afllive://?type=ladder</a>
-  <br><a href="afllive://?type=match&matchId=3738">afllive://?type=match&matchId=3738</a>
-  <br><a href="afllive://?type=match_news&matchId=3738">afllive://?type=match_news&matchId=3738</a>
-  <br><a href="afllive://?type=match_stats_players&matchId=3738">afllive://?type=match_stats_players&matchId=3738</a>
-  <br><a href="afllive://?type=match_stats_teams&matchId=3738">afllive://?type=match_stats_teams&matchId=3738</a>
-  <br><a href="afllive://?type=match_stats_tracker&matchId=3738">afllive://?type=match_stats_tracker&matchId=3738</a>
-  <br><a href="afllive://?type=news">afllive://?type=news</a>
-  <br><a href="afllive://?type=news&newsId=679649">afllive://?type=news&newsId=679649</a>
-  <br><a
-    href="afllive://?type=url&url=https://www.afl.com.au/ondemand">afllive://?type=url&url=https://www.afl.com.au/ondemand</a>
-  <br><a href="afllive://?type=players&id=CD_I1002232">afllive://?type=players&id=CD_I1002232</a>
-  <br><a href="afllive://?type=stats">afllive://?type=stats</a>
-  <br><a
-    href="afllive://?type=statsPro&playerId=CD_I298210&matchId=3738">afllive://?type=statsPro&playerId=CD_I298210&matchId=3738</a>
-  <br><a href="afllive://?type=teamAnnouncements">afllive://?type=teamAnnouncements</a>
-  <br><a href="afllive://?type=team&teamId=CD_T90">afllive://?type=team&teamId=CD_T90</a>
-  <br><a href="afllive://?type=teams">afllive://?type=teams</a>
-  <br><a
-    href="afllive://?type=url&url=https://www.afl.com.au/trade">afllive://?type=url&url=https://www.afl.com.au/trade</a>
-  <br><a
-    href="afllive://?type=url&url=https://www.afl.com.au/matches/injury-list?webview=true">afllive://?type=url&url=https://www.afl.com.au/matches/injury-list?webview=true</a>
-  <br><a href="afllive://?type=video">afllive://?type=video</a>
-  <br><a href="afllive://?type=video&videoId=679676">afllive://?type=video&videoId=679676</a>
-  <br><a href="afllive://?type=whatsnew">afllive://?type=whatsnew</a>
   <br><a
     href="https://www.afl.com.au/arHub/CD_S2021014?startRoundNumber=10&endRoundNumber=12">https://www.afl.com.au/arHub/CD_S2021014?startRoundNumber=10&endRoundNumber=12</a>
   <br><a href="https://www.afl.com.au/fixture">https://www.afl.com.au/fixture</a>
