@@ -42,7 +42,7 @@ https://www.afl.com.au/video/679676/countdown-to-the-gf-the-stat-that-points-to-
 
 https://www.afl.com.au/whatsnew
 
-// The following links should open in the webview including the afl domain and not in the App as those pages do not exist in the App-->
+// The following links should open in the webview including the afl domain and not in the App as those pages do not exist in the App -->
 // Scenario 8 in the Accentance criteria -->
   
 https://www.afl.com.au/trade
