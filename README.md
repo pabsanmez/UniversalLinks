@@ -49,3 +49,6 @@ https://www.afl.com.au/trade
 https://www.afl.com.au/onDemand
 https://www.afl.com.au
 https://www.afl.com.au/draft
+
+Loop Testing:
+https://www.afl.com.au/news/thisIsNotANumber
