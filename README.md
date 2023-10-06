@@ -52,3 +52,5 @@ https://www.afl.com.au/draft
 
 Loop Testing:
 https://www.afl.com.au/news/thisIsNotANumber
+
+https://www.afl.com.au/news/1048861
