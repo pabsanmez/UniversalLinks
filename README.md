@@ -20,6 +20,8 @@ https://www.afl.com.au/news/679649/green-light-for-full-tilt-grand-final-despite
 
 https://www.afl.com.au/stats/players?playerId=CD_I1002232
 
+AFLW (No Native) - https://www.afl.com.au/aflw/stats/players?playerId=CD_I296154
+
 https://www.afl.com.au/matches/team-lineups?GameWeeks=28
 
 https://www.afl.com.au/matches/5839
